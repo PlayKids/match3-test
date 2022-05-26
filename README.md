@@ -15,3 +15,16 @@ Everytime the player scores, the gems need to be moved down and freeing up place
 - Game must have sound and make use of the sprites of this repository. 
 - The game must be implemented in Portrait orientation, and the game board and UI must works in differenct resolutions and aspect ratios.
 - Delivery: the project must be uploaded into a github repository
+
+**What we value on this test?**
+- Clean code over extra features
+- Gameplay logic over beautiful UI
+- Code organization over project completeness
+- Good architecture over code comments
+
+**Tips**
+- Don't worry too much about minor bugs and minor features - we're not expecting a ready to deploy game
+- Don't waste time on bells and whistles, focus on gameplay and comprehensive code first
+- SOLID and DRY principles add value
+- Use any architectural pattern that fits this project
+- Unit tests are not mandatory but are valuable
